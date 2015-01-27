@@ -1,0 +1,24 @@
+{
+  "name": "cascade-advanced",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jslegers/cascadeframeworkadvanced",
+  "authors": [
+    "John Slegers <http://www.johnslegers.com>"
+  ],
+  "description": "Cascade Framework Advanced is a frontend framework that integrates Cascade Framework and jQuery UI",
+  "main": "assets/css/cascade/development/build-full.css",
+  "keywords": [
+    "CSS",
+    "cascade",
+    "jQuery",
+    "UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "LICENSE",
+    "README.md",
+    "./*.html",
+    "./*.png"
+  ]
+}
